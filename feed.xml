@@ -2,12 +2,12 @@
         <rss version="2.0">
         <channel>
         <title>要闻</title>
-        <!-- <link>http://www.ruanyifeng.com/blog/</link> -->
+        <!-- <link> SHOULD BE THE CHANNEL LINK </link> -->
         <description></description>
         <language>en</language>
         <copyright>Copyright 2023</copyright>
-        <lastBuildDate>Fri, 25 Aug 2023 08:06:22 +0800</lastBuildDate>
-        <!-- <generator>http://www.sixapart.com/movabletype/</generator> -->
+        <lastBuildDate>Mon, 28 Aug 2023 18:24:24 +0800</lastBuildDate>
+        <!-- <generator> GENERATOR WEBSITE </generator> -->
         <docs>http://www.rssboard.org/rss-specification</docs>
         <item>
             <title> 中办国办印发《关于进一步加强青年科技人才培养和使用的若干措施》   </title>
@@ -46,10 +46,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 开好专题民主生活会，确保主题教育成效   </title>
             <description><![CDATA[<div class="article">
@@ -87,10 +87,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 图片报道   </title>
             <description><![CDATA[<div class="article">
@@ -132,10 +132,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 灾后恢复重建，重实效也要长效（今日谈）   </title>
             <description><![CDATA[<div class="article">
@@ -173,10 +173,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 从“解剖一个问题”到“解决一类问题”（学思想 强党性 重实践 建新功）   </title>
             <description><![CDATA[<div class="article">
@@ -214,10 +214,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 平陆运河  通江达海（经济新方位·重大工程一线）   </title>
             <description><![CDATA[<div class="article">
@@ -263,10 +263,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 绘就水清岸绿的生态画卷（高质量发展调研行）   </title>
             <description><![CDATA[<div class="article">
@@ -304,10 +304,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 算好交通建设投资“两本账”（快评）   </title>
             <description><![CDATA[<div class="article">
@@ -345,10 +345,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 证券交易印花税实施减半征收   </title>
             <description><![CDATA[<div class="article">
@@ -386,10 +386,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 活跃资本市场提振投资者信心   </title>
             <description><![CDATA[<div class="article">
@@ -427,10 +427,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 中办国办印发《关于进一步加强青年科技人才培养和使用的若干措施》   </title>
             <description><![CDATA[<div class="article">
@@ -468,10 +468,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 金砖国家农业领域务实合作迈上新台阶（互利共赢  团结合作）   </title>
             <description><![CDATA[<div class="article">
@@ -513,10 +513,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 携手推进合作共赢、和合共生、文明共兴的历史伟业（和音）   </title>
             <description><![CDATA[<div class="article">
@@ -554,10 +554,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> “共同开创金砖合作更加美好的未来”   </title>
             <description><![CDATA[<div class="article">
@@ -595,10 +595,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> “金砖合作机制的吸引力不断提升”   </title>
             <description><![CDATA[<div class="article">
@@ -636,10 +636,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> “中国对外缔结引渡条约30年：回顾与展望”研讨会在京举办   </title>
             <description><![CDATA[<div class="article">
@@ -677,10 +677,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 南非议会高度评价金砖国家领导人会晤成果   </title>
             <description><![CDATA[<div class="article">
@@ -718,10 +718,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 全国社区党组织书记和居委会主任视频培训班举办   </title>
             <description><![CDATA[<div class="article">
@@ -759,10 +759,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 新房建得快  日子好起来   </title>
             <description><![CDATA[<div class="article">
@@ -800,10 +800,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 调查研究关键看实效（人民论坛）   </title>
             <description><![CDATA[<div class="article">
@@ -841,10 +841,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 图片报道   </title>
             <description><![CDATA[<div class="article">
@@ -886,10 +886,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 持续会商调度重点地区防汛防台风工作   </title>
             <description><![CDATA[<div class="article">
@@ -927,10 +927,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 解读《关于进一步加强青年科技人才培养和使用的若干措施》   </title>
             <description><![CDATA[<div class="article">
@@ -968,10 +968,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 一版责编：许  诺  张帅祯  赵  政  二版责编：殷新宇  蒋雪婕  郭雪岩  三版责编：于景浩  戴楷然  崔  琦  四版责编：袁振喜  张佳莹  栾心怡   </title>
             <description><![CDATA[<div class="article">
@@ -1009,29 +1009,29 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item>
     </channel><channel>
         <title>特别报道</title>
-        <!-- <link>http://www.ruanyifeng.com/blog/</link> -->
+        <!-- <link> SHOULD BE THE CHANNEL LINK </link> -->
         <description></description>
         <language>en</language>
         <copyright>Copyright 2023</copyright>
-        <lastBuildDate>Fri, 25 Aug 2023 08:06:22 +0800</lastBuildDate>
-        <!-- <generator>http://www.sixapart.com/movabletype/</generator> -->
+        <lastBuildDate>Mon, 28 Aug 2023 18:24:24 +0800</lastBuildDate>
+        <!-- <generator> GENERATOR WEBSITE </generator> -->
         <docs>http://www.rssboard.org/rss-specification</docs>
         
     </channel><channel>
         <title>评论</title>
-        <!-- <link>http://www.ruanyifeng.com/blog/</link> -->
+        <!-- <link> SHOULD BE THE CHANNEL LINK </link> -->
         <description></description>
         <language>en</language>
         <copyright>Copyright 2023</copyright>
-        <lastBuildDate>Fri, 25 Aug 2023 08:06:22 +0800</lastBuildDate>
-        <!-- <generator>http://www.sixapart.com/movabletype/</generator> -->
+        <lastBuildDate>Mon, 28 Aug 2023 18:24:24 +0800</lastBuildDate>
+        <!-- <generator> GENERATOR WEBSITE </generator> -->
         <docs>http://www.rssboard.org/rss-specification</docs>
         <item>
             <title> 以产业振兴助力乡村振兴（大家谈·新时代的乡村振兴①）   </title>
@@ -1070,10 +1070,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 让人脸信息得到更有效保护（人民时评）   </title>
             <description><![CDATA[<div class="article">
@@ -1111,10 +1111,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 银龄讲学  余霞满天（暖闻热评）   </title>
             <description><![CDATA[<div class="article">
@@ -1152,10 +1152,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 图片报道   </title>
             <description><![CDATA[<div class="article">
@@ -1197,10 +1197,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 发挥农业保险的支撑作用（纵横）   </title>
             <description><![CDATA[<div class="article">
@@ -1238,10 +1238,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 将“富贵之花”变为“富民之花”（治理者说）   </title>
             <description><![CDATA[<div class="article">
@@ -1279,10 +1279,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 本版责编：陈  凌  盛玉雷  崔  妍   </title>
             <description><![CDATA[<div class="article">
@@ -1320,19 +1320,19 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item>
     </channel><channel>
         <title>政治</title>
-        <!-- <link>http://www.ruanyifeng.com/blog/</link> -->
+        <!-- <link> SHOULD BE THE CHANNEL LINK </link> -->
         <description></description>
         <language>en</language>
         <copyright>Copyright 2023</copyright>
-        <lastBuildDate>Fri, 25 Aug 2023 08:06:22 +0800</lastBuildDate>
-        <!-- <generator>http://www.sixapart.com/movabletype/</generator> -->
+        <lastBuildDate>Mon, 28 Aug 2023 18:24:24 +0800</lastBuildDate>
+        <!-- <generator> GENERATOR WEBSITE </generator> -->
         <docs>http://www.rssboard.org/rss-specification</docs>
         <item>
             <title> 向险而行的抗洪勇士   </title>
@@ -1371,10 +1371,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 让“土办法”发挥大作用（一线行走）   </title>
             <description><![CDATA[<div class="article">
@@ -1412,10 +1412,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 航空救援队伍飞行员第二阶段交叉融合训练在昆明展开   </title>
             <description><![CDATA[<div class="article">
@@ -1453,10 +1453,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 图片报道   </title>
             <description><![CDATA[<div class="article">
@@ -1498,10 +1498,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 北京持续优化公交专用道通行管理措施   </title>
             <description><![CDATA[<div class="article">
@@ -1539,10 +1539,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 11名电诈犯罪嫌疑人被押解回国   </title>
             <description><![CDATA[<div class="article">
@@ -1580,10 +1580,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 党建引领乡村产业振兴   </title>
             <description><![CDATA[<div class="article">
@@ -1621,10 +1621,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 多措并举架起政企“连心桥”   </title>
             <description><![CDATA[<div class="article">
@@ -1662,10 +1662,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 本版责编：苏显龙  赵晓曦  徐雷鹏   </title>
             <description><![CDATA[<div class="article">
@@ -1703,39 +1703,39 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item>
     </channel><channel>
         <title>经济</title>
-        <!-- <link>http://www.ruanyifeng.com/blog/</link> -->
+        <!-- <link> SHOULD BE THE CHANNEL LINK </link> -->
         <description></description>
         <language>en</language>
         <copyright>Copyright 2023</copyright>
-        <lastBuildDate>Fri, 25 Aug 2023 08:06:22 +0800</lastBuildDate>
-        <!-- <generator>http://www.sixapart.com/movabletype/</generator> -->
+        <lastBuildDate>Mon, 28 Aug 2023 18:24:24 +0800</lastBuildDate>
+        <!-- <generator> GENERATOR WEBSITE </generator> -->
         <docs>http://www.rssboard.org/rss-specification</docs>
         
     </channel><channel>
         <title>民主政治</title>
-        <!-- <link>http://www.ruanyifeng.com/blog/</link> -->
+        <!-- <link> SHOULD BE THE CHANNEL LINK </link> -->
         <description></description>
         <language>en</language>
         <copyright>Copyright 2023</copyright>
-        <lastBuildDate>Fri, 25 Aug 2023 08:06:22 +0800</lastBuildDate>
-        <!-- <generator>http://www.sixapart.com/movabletype/</generator> -->
+        <lastBuildDate>Mon, 28 Aug 2023 18:24:24 +0800</lastBuildDate>
+        <!-- <generator> GENERATOR WEBSITE </generator> -->
         <docs>http://www.rssboard.org/rss-specification</docs>
         
     </channel><channel>
         <title>生态</title>
-        <!-- <link>http://www.ruanyifeng.com/blog/</link> -->
+        <!-- <link> SHOULD BE THE CHANNEL LINK </link> -->
         <description></description>
         <language>en</language>
         <copyright>Copyright 2023</copyright>
-        <lastBuildDate>Fri, 25 Aug 2023 08:06:22 +0800</lastBuildDate>
-        <!-- <generator>http://www.sixapart.com/movabletype/</generator> -->
+        <lastBuildDate>Mon, 28 Aug 2023 18:24:24 +0800</lastBuildDate>
+        <!-- <generator> GENERATOR WEBSITE </generator> -->
         <docs>http://www.rssboard.org/rss-specification</docs>
         <item>
             <title> 长江江心岛  生态大课堂（美丽中国·关注自然教育③）   </title>
@@ -1774,10 +1774,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 世界最大清洁能源走廊日发电量超14亿千瓦时   </title>
             <description><![CDATA[<div class="article">
@@ -1815,10 +1815,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 五部门部署开展绿色出行宣传月活动   </title>
             <description><![CDATA[<div class="article">
@@ -1856,10 +1856,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 第八批国家生态环境科普基地名单公布   </title>
             <description><![CDATA[<div class="article">
@@ -1897,10 +1897,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 守好生态底线  探索发展新路   </title>
             <description><![CDATA[<div class="article">
@@ -1938,10 +1938,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 12家法院签订绿色倡议   </title>
             <description><![CDATA[<div class="article">
@@ -1979,10 +1979,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 海辰储能 一切为了绿水青山   </title>
             <description><![CDATA[<div class="article">
@@ -2024,10 +2024,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 本版责编：程  晨  张  晔  张文豪   </title>
             <description><![CDATA[<div class="article">
@@ -2065,19 +2065,19 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item>
     </channel><channel>
         <title>其他</title>
-        <!-- <link>http://www.ruanyifeng.com/blog/</link> -->
+        <!-- <link> SHOULD BE THE CHANNEL LINK </link> -->
         <description></description>
         <language>en</language>
         <copyright>Copyright 2023</copyright>
-        <lastBuildDate>Fri, 25 Aug 2023 08:06:22 +0800</lastBuildDate>
-        <!-- <generator>http://www.sixapart.com/movabletype/</generator> -->
+        <lastBuildDate>Mon, 28 Aug 2023 18:24:24 +0800</lastBuildDate>
+        <!-- <generator> GENERATOR WEBSITE </generator> -->
         <docs>http://www.rssboard.org/rss-specification</docs>
         <item>
             <title> 用心补上医疗服务短板（办实事  解民忧）   </title>
@@ -2116,10 +2116,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 让群众看病就医更便捷（民生观）   </title>
             <description><![CDATA[<div class="article">
@@ -2157,10 +2157,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 避暑观光   </title>
             <description><![CDATA[<div class="article">
@@ -2202,10 +2202,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 推进基层卫生健康便民惠民服务   </title>
             <description><![CDATA[<div class="article">
@@ -2243,10 +2243,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 排查火灾隐患  完善基础设施   </title>
             <description><![CDATA[<div class="article">
@@ -2284,10 +2284,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 本版责编：李智勇  徐  阳  杨笑雨   </title>
             <description><![CDATA[<div class="article">
@@ -2325,10 +2325,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 学术圆桌   </title>
             <description><![CDATA[<div class="article">
@@ -2370,10 +2370,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 中华文明赋予中国式现代化以深厚底蕴（学术圆桌）   </title>
             <description><![CDATA[<div class="article">
@@ -2411,10 +2411,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 中国式现代化赋予中华文明以现代力量（学术圆桌）   </title>
             <description><![CDATA[<div class="article">
@@ -2452,10 +2452,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 从中华大地长出来的现代化（学术圆桌）   </title>
             <description><![CDATA[<div class="article">
@@ -2493,10 +2493,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 中国式现代化铸就中华文明新辉煌（学术圆桌）   </title>
             <description><![CDATA[<div class="article">
@@ -2534,10 +2534,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 天山脚下，共享非遗之美   </title>
             <description><![CDATA[<div class="article">
@@ -2575,10 +2575,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 中华文明“统一性”的历史特点与当代价值   </title>
             <description><![CDATA[<div class="article">
@@ -2616,10 +2616,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 图片报道   </title>
             <description><![CDATA[<div class="article">
@@ -2661,10 +2661,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 大手牵小手  迎接新学期   </title>
             <description><![CDATA[<div class="article">
@@ -2702,10 +2702,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 如何建好民心工程、杜绝形象工程（金台视线·紧盯形式主义问题⑤）   </title>
             <description><![CDATA[<div class="article">
@@ -2751,10 +2751,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 落实食品安全责任 防止工作“一刀切”（反馈）   </title>
             <description><![CDATA[<div class="article">
@@ -2792,10 +2792,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 小区改造  乱伐大树（身边事）   </title>
             <description><![CDATA[<div class="article">
@@ -2837,10 +2837,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 景区卫生间建设要跟上（建议）   </title>
             <description><![CDATA[<div class="article">
@@ -2878,10 +2878,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 办好民生工程、民心工程（记者手记）   </title>
             <description><![CDATA[<div class="article">
@@ -2919,10 +2919,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 征  集   </title>
             <description><![CDATA[<div class="article">
@@ -2964,10 +2964,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 亚运惠民  添彩生活（杭州准备好了）   </title>
             <description><![CDATA[<div class="article">
@@ -3005,10 +3005,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 鼓足勇气，重新出发（体坛观澜）   </title>
             <description><![CDATA[<div class="article">
@@ -3046,10 +3046,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 中国队夺得冠军   </title>
             <description><![CDATA[<div class="article">
@@ -3087,10 +3087,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 动感十足   </title>
             <description><![CDATA[<div class="article">
@@ -3132,10 +3132,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 中国队集体全能项目摘银   </title>
             <description><![CDATA[<div class="article">
@@ -3173,10 +3173,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 中国代表团位列金牌榜第二位   </title>
             <description><![CDATA[<div class="article">
@@ -3214,10 +3214,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 中国女冰  向着更高目标迈进   </title>
             <description><![CDATA[<div class="article">
@@ -3255,10 +3255,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 2023年全民健身线上运动会参赛人数超千万   </title>
             <description><![CDATA[<div class="article">
@@ -3296,10 +3296,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 2023年威海铁人三项世界杯赛举行   </title>
             <description><![CDATA[<div class="article">
@@ -3337,10 +3337,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 本版责编：巩育华  唐天奕  高  佶   </title>
             <description><![CDATA[<div class="article">
@@ -3378,10 +3378,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 完善科技创新体系，加快实施创新驱动发展战略   </title>
             <description><![CDATA[<div class="article">
@@ -3419,10 +3419,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> “核污染水排海是一种暴行”（国际视点）   </title>
             <description><![CDATA[<div class="article">
@@ -3464,10 +3464,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 言行相诡，信誉亏空只会越来越大（钟声）   </title>
             <description><![CDATA[<div class="article">
@@ -3505,10 +3505,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 全球生物多样性框架基金设立   </title>
             <description><![CDATA[<div class="article">
@@ -3546,10 +3546,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 世贸组织：今年三季度全球货物贸易增长动能或有限   </title>
             <description><![CDATA[<div class="article">
@@ -3587,10 +3587,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 德国商业景气指数连续第四个月环比下降   </title>
             <description><![CDATA[<div class="article">
@@ -3628,10 +3628,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 政策直达快享 企业轻装前行（深度观察·畅通资金“血脉”，促进民营经济发展壮大）   </title>
             <description><![CDATA[<div class="article">
@@ -3681,10 +3681,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 精准政策为企业添动力（财经观）   </title>
             <description><![CDATA[<div class="article">
@@ -3722,10 +3722,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 财经短波   </title>
             <description><![CDATA[<div class="article">
@@ -3763,10 +3763,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 本版责编：王  观   </title>
             <description><![CDATA[<div class="article">
@@ -3804,10 +3804,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 我国机器人产业迈向中高端（科技视点）   </title>
             <description><![CDATA[<div class="article">
@@ -3849,10 +3849,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 为科学治沙提供强大支撑（创新谈）   </title>
             <description><![CDATA[<div class="article">
@@ -3890,10 +3890,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 新闻速递   </title>
             <description><![CDATA[<div class="article">
@@ -3931,10 +3931,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 提升信息系统终端安全能力（专家观点）   </title>
             <description><![CDATA[<div class="article">
@@ -3972,10 +3972,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 本版责编：喻思南   </title>
             <description><![CDATA[<div class="article">
@@ -4013,10 +4013,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 播种信念的人（逐梦）   </title>
             <description><![CDATA[<div class="article">
@@ -4058,10 +4058,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item><item>
             <title> 走过万绿园（我与一座城）   </title>
             <description><![CDATA[<div class="article">
@@ -4099,10 +4099,10 @@
                   
              </div>
                 </div>]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</link> -->
-            <!-- <guid>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html</guid> -->
+            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
+            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Fri, 25 Aug 2023 08:06:22 +0800</pubDate>
+            <pubDate>Mon, 28 Aug 2023 18:24:24 +0800</pubDate>
         </item>
     </channel>
     </rss>
