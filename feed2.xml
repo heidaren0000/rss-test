@@ -2,29 +2,29 @@
         <rss version="2.0">
         <channel>
         <title>mocked rss feed</title>
-        <!-- <link> SHOULD BE THE CHANNEL LINK </link> -->
+        <link>about:blank</link>
         <description>undefined</description>
         <language>en</language>
         <copyright>Copyright 2023</copyright>
-        <lastBuildDate>Sat, 30 Spet 2023 20:16:05 +0800</lastBuildDate>
+        <lastBuildDate>Sat, 30 Sep 2023 20:45:05 +0800</lastBuildDate>
         <!-- <generator> GENERATOR WEBSITE </generator> -->
         <docs>http://www.rssboard.org/rss-specification</docs>
         
         <item>
             <title> item1 </title>
             <description><![CDATA[desc1]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
-            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
+            <link>about:blank</link>
+            <guid>1</guid>
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Sat, 30 Spet 2023 20:16:05 +0800</pubDate>
+            <pubDate>Sat, 30 Sep 2023 20:45:05 +0800</pubDate>
         </item>
         <item>
             <title> item2 </title>
             <description><![CDATA[desc2]]><![CDATA[<div style="color:#556677;line-height:160%;padding:0.3em 0.5em;margin:1em;-moz-border-radius: 10px;-webkit-border-radius:10px;border-radius: 10px;"></div>]]></description>
-            <!-- <link> SHOULD POINT TO ORIGIN LINK OF THE POST, LEFT EMPTY FOR NOW </link> -->
-            <!-- <guid> SHOULD POINT TO GUID OF THE POST, USUALLY USE LINK </guid> -->
+            <link>about:blank</link>
+            <guid>2</guid>
                 <!-- <category domain="http://www.sixapart.com/ns/types#category">Weekly</category> -->
-            <pubDate>Sat, 30 Spet 2023 20:16:05 +0800</pubDate>
+            <pubDate>Sat, 30 Sep 2023 20:45:05 +0800</pubDate>
         </item>
         </channel>
     </rss>
